@@ -1,0 +1,1 @@
+https://www.quickprogrammingtips.com/spring-boot/how-to-send-email-from-spring-boot-applications.html
